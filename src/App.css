@@ -24,6 +24,18 @@
   color: white;
 }
 
+.navbar {
+  font-size: 18px;
+  color: white;
+  background: #07651e;
+}
+
+.nav-link:hover{
+  color: #31a34e;
+}
+.navbar li :hover{
+  color: white;
+}
 .App-link {
   color: #61dafb;
 }
